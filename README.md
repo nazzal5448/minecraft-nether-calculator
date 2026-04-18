@@ -10,4 +10,5 @@ The official Extension is  available on:
 [Edge Addons store](https://microsoftedge.microsoft.com/addons/detail/nether-calculator/ahmngilppdffipiiddfmhefecnogbjak).
 
 It is developed by the founders of Ore Finder io. 
+
 [https://orefinder.io](https://orefinder.io)
